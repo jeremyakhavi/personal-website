@@ -36,7 +36,7 @@ export const skills = [
   "Linux",
   "Docker",
   "Cypher",
-  "Neo4J",
+  "Neo4j",
   "SQLAlchemy"
 ];
 

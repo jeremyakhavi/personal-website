@@ -9,7 +9,7 @@ export default function About() {
             Hi, I'm Jeremy Akhavi.
           </h1>
           <p className="mb-8 leading-relaxed">
-          I am a Computer Science student at Loughborough University. I work part-time as a Cloud Software Engineer at Hewlett Packard Enterprise. <br/><br/>
+          I am a final year Computer Science student at Loughborough University. I work part-time as a Cloud Software Engineer at Hewlett Packard Enterprise. <br/><br/>
           I love using technology to make a meaningful difference in the world, volunteering and hiking.
           </p>
           <div className="flex justify-center">
